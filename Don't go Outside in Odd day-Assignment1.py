@@ -9,7 +9,7 @@
 c=[]
 while(1):
     i=input()
-    if(i!=""):#Ends when enter is hit twice
+    if(i!=""):
         c.append(i)
     else:
         break
